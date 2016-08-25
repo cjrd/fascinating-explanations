@@ -8,3 +8,6 @@
 
 ## Economics
 * [Economix: How Our Economy Works (and Doesn't Work), in Words and Pictures ](https://www.amazon.com/Economix-Economy-Works-Doesnt-Pictures/dp/0810988399) (book) (History of economics in comic form)
+
+## Computer Science
+* (The Little Schemer)[https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992] (book) (Explanation of functional programming and Scheme (Lisp) in a question-answer format)
